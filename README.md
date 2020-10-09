@@ -1,6 +1,6 @@
 # THOP: PyTorch-OpCounter
 
-This repository was forked from [https://github.com/Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter).
+This repository was forked from [https://github.com/Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter), commit 38a802aad5146f89292a27fc7800000c2647bdae from Mar 11, 2019.
 
 ## How to install 
     
