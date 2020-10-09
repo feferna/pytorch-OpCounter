@@ -1,13 +1,12 @@
 # THOP: PyTorch-OpCounter
 
+This repository was forked from [https://github.com/Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter).
+
 ## How to install 
-* Through PyPi
-    
-    `pip install thop`
     
 * Using GitHub (always latest)
     
-    `pip install --upgrade git+https://github.com/Lyken17/pytorch-OpCounter.git`
+    `pip install --upgrade git+https://github.com/feferna/pytorch-OpCounter.git`
     
 ## How to use 
 * Basic usage 
